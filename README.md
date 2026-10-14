@@ -1,0 +1,1 @@
+The objective of this project is to identify the most economically stable and investment-ready countries for international real estate expansion. By analyzing a comprehensive set of economic indicators across 34 OECD countries, the project aims to determine which variables most significantly influence public debt—a key measure of fiscal health, risk, and long-term stability.
